@@ -1,5 +1,5 @@
 About Me
-Hi! I'm Aster808, a student in CSC-113-0901: Artificial Intelligence Fundamentals.
+Hi! I'm Nicholas Candanoza, a student in CSC-113-0901: Artificial Intelligence Fundamentals.
 My Goal
 My primary focus is to truly learn and understand the material in this course. I'm not just here to complete assignments—I want to build a solid foundation in AI concepts that I can actually apply and explain.
 What I'm Learning
